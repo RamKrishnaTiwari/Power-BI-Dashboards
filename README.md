@@ -15,6 +15,7 @@ The dashboard tracks the following high-level metrics at a glance:
 📈 Visualizations & Insights
 
 The dashboard includes several visualizations to analyze the data from multiple angles:
+
 •	Cost by Product Category (Bar Chart): Highlights which categories incur the most cost, showing Electronics as the leading category, followed by Home & Kitchen, Fashion, Sports, and Grocery.
 •	Regional Cost Distribution (Donut Chart): Breaks down the sum of cost by region, revealing that the North region (4.85M) has the highest share, followed by Central, East, West, and South.
 •	Daily Cost Trends (Line Chart): Tracks the sum of cost over a 40-day period, allowing for the identification of spikes and dips in daily spending or sales velocity.
@@ -24,9 +25,11 @@ The dashboard includes several visualizations to analyze the data from multiple 
 🎛️ Interactive Filters (Slicers)
 
 To allow for deep-dive analysis, the dashboard includes dynamic filters for:
+
 •	Region: Central, East, North, South, West.
 •	Product Category: Electronics, Fashion, Grocery, Home & Kitchen, Sports.
 •	Payment Method: Cash on Delivery, Credit Card, Debit Card, Net Banking, UPI.
+
 🛠️ Tools Used
 •	Power BI, Excel
 
